@@ -4,7 +4,7 @@ Generate thumbnails for all videos files in a given directory
 Non-Git users
 
 1. <a href="https://github.com/whats-happening-rightnow/screenCap/archive/master.zip">Download solution as Zip</a>
-2. Unpack, navigate to [screenCap]\screenCap\bin\Debug
+2. Unpack, navigate to [screenCap-master]\screenCap\bin\Debug
 3. Update config file "screenCap.exe.config" using your favorite text editor
 4. Ensure "TheseFolders" value is updated, or it will crash
    ![Config](http://i.imgur.com/QDh260e.png)
